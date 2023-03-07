@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 334f9947-f7b4-4a8c-a6dc-595aefed4e09
-  WEBAPP-NAME: az400-webapp-suzy
+  WEBAPP-NAME: az400-webapp-suzy2
 
 
 jobs:
